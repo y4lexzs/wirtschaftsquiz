@@ -1,7 +1,7 @@
 # <p align="center">Wirtschaftsquiz - IDPA Project 🎓</p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/czgpy5.gif" alt="wirtschaftsquiz gif"/>
+  <img width=1280 height=720 src="https://files.catbox.moe/czgpy5.gif" alt="wirtschaftsquiz gif"/>
 </p>
 
 <p align="center"><strong>Wirtschaftsquiz</strong> is an interactive platform in German for creating and taking quizzes with a UI/UX-focused interface, developed as part of an Individual Practical Work (IDPA). The project focuses on testing knowledge in the field of economics, but thanks to its flexible structure, it can be used for any thematic tests.</p>
