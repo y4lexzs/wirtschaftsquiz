@@ -1,8 +1,6 @@
 # <p align="center">Wirtschaftsquiz - IDPA Projekt 🎓</p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/czgpy5.gif" alt="wirtschaftsquiz gif"/>
-</p>
+![wirtschaftsquiz gif](/wirtschaftsquiz_github.gif)
 
 <p align="center"><strong>Wirtschaftsquiz</strong> ist eine interaktive Plattform auf Deutsch zum Erstellen und Durchführen von Quizzen mit einer UI/UX-orientierten Interface, entwickelt im Rahmen einer Interdisziplinären Projektarbeit (IDPA). Das Projekt konzentriert sich auf die Wissensüberprüfung im Bereich Wirtschaft, kann aber dank seiner flexiblen Struktur für thematische Tests jeglicher Art verwendet werden.</p>
 
